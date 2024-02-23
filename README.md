@@ -14,4 +14,4 @@
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=zava&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/zava-3DDC84?style=flat-square&logo=zava&logoColor=#000000"/>
