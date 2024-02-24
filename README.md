@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요%20윤예지입니다&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=300&section=header&text=윤예지%20입니다&fontSize=90)
 
 # 안녕하세요 신입 개발자 윤예지입니다. <br>저와 같이 성장 하실분 환영합니다
 
