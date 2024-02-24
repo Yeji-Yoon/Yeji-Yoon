@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=300&section=header&text=윤예지%20입니다&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=BDBDC&height=300&section=header&text=윤예지%20입니다&fontSize=90)
 
 # 안녕하세요 신입 개발자 윤예지입니다. <br>저와 같이 성장 하실분 환영합니다
 
@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=random&height=100&section=footer&text=끝%20입니다&fontSize=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=BDBDC&height=100&section=footer&text=끝%20입니다&fontSize=50)
